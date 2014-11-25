@@ -1,0 +1,18 @@
+body {
+    margin: 100px 100px;
+}
+
+body > div > canvas {
+    background: #222;
+}
+
+.fractal-view {
+    position: relative;
+}
+
+.zoom-box {
+    display: none;
+    position: absolute;
+    border: solid 1px;
+    border-color: yellow;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fractals",
+  "version": "0.0.0",
+  "authors": [
+    "Johannes Gustafsson <johannesgu@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mathjs": "~1.1.0",
+    "jquery": "~2.1.1",
+    "rxjs": "~2.3.18",
+    "rxjs-html": "~4.0.1",
+    "rxjs-jquery": "~1.1.7"
+  }
+}
